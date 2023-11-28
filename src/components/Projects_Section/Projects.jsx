@@ -19,7 +19,7 @@ const Projects = () => {
             <img src={IMG1} alt="" />
           </div>
           <h3>Web Pokédex</h3>
-          <a href="https://github.com/as4khan/Personal-Pokedex-" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Personal-Pokedex-" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_2'>
@@ -27,7 +27,7 @@ const Projects = () => {
             <img src={IMG2} alt="" />
           </div>
           <h3>Robotic Arm</h3>
-          <a href="https://github.com/as4khan/Robotic-Arm" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Robotic-Arm" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_3'>
@@ -35,7 +35,7 @@ const Projects = () => {
             <img src={IMG3} alt="" />
           </div>
           <h3>Wildfire Prevention System</h3>
-          <a href="https://github.com/as4khan/Wildfire-Prevention-System" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Wildfire-Prevention-System" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_4'>
@@ -43,7 +43,7 @@ const Projects = () => {
             <img src={IMG4} alt="" />
           </div>
           <h3>Discord Bot</h3>
-          <a href="https://github.com/as4khan/Discord-Bot" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Discord-Bot" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_5'>
@@ -51,7 +51,7 @@ const Projects = () => {
             <img src={IMG5} alt="" />
           </div>
           <h3>Geesespotter Game</h3>
-          <a href="https://github.com/as4khan/GeeseSpotter-Game" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/GeeseSpotter-Game" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_6'>
@@ -59,7 +59,7 @@ const Projects = () => {
             <img src={IMG6} alt="" />
           </div>
           <h3>Checksum</h3>
-          <a href="https://github.com/as4khan/Checksum" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Checksum" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
         
         <article className='portfolio__item_7'>
@@ -67,7 +67,7 @@ const Projects = () => {
             <img src={IMG7} alt="" />
           </div>
           <h3>Fruit-FAX</h3>
-          <a href="https://github.com/KaziShaffan/Fruits-FAX" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/KaziShaffan/Fruits-FAX" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
 
         <article className='portfolio__item_8'>
@@ -75,7 +75,7 @@ const Projects = () => {
             <img src={IMG8} alt="" />
           </div>
           <h3>Energy Monitoring Controller</h3>
-          <a href="https://github.com/as4khan/Energy-Monitoring-Controller" className='btn' target="_blank">Github</a>
+          <a href="https://github.com/as4khan/Energy-Monitoring-Controller" className='btn' target="_blank" rel="noreferrer">Github</a>
         </article>
 
       </div>

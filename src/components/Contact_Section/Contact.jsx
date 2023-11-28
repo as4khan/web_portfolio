@@ -24,19 +24,19 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon"/>
             <h4>Work Email</h4>
             <h5>areebsafirkhan10@gmail.com</h5>
-            <a href='mailto:areebsafirkhan10@gmail.com' target="_blank">Send a Message</a>
+            <a href='mailto:areebsafirkhan10@gmail.com' target="_blank" rel="noreferrer">Send a Message</a>
           </article>
           <article className='contact__option'>
             <MdOutlineEmail className="contact__option-icon"/>
             <h4>School Email</h4>
             <h5>as4khan@uwaterloo.ca</h5>
-            <a href='mailto:as4khan@uwaterloo.ca' target="_blank">Send a Message</a>
+            <a href='mailto:as4khan@uwaterloo.ca' target="_blank" rel="noreferrer">Send a Message</a>
           </article>
           <article className='contact__option'>
             <FiPhone className="contact__option-icon"/>
             <h4>Phone Number</h4>
             <h5>437-993-1813</h5>
-            <a>Give Me A Call</a>
+            <h5>Give Me A Call</h5>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
